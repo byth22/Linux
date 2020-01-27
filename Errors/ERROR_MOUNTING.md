@@ -4,5 +4,5 @@
 
 <b>Error correction:</b>
 
-  sudo apt-get install ntfs-3g
-  sudo ntfsfix /dev/sdb1
+  <pre>sudo apt-get install ntfs-3g</pre>
+  <pre>sudo ntfsfix /dev/sdb1</pre>
